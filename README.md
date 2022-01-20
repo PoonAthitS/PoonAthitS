@@ -7,7 +7,7 @@ I have always believed that data-driven decision making is one of the most sign
 <summary>More about me:</summary>
   
   - 🔭 I’m currently applying for a job in Data/Business Analytics, Business Intelligence. If you are looking for a team player who is detail-oriented and hard-working, need to look no further.  
-  - 🌱 I’m currently learning: MSc Business Analytics
+  - 🌱 I’m currently learning: ML with Python
   - 📫 How to reach me: [LinkedIn Profile.](https://www.linkedin.com/in/athit-srimachand/)
   - 😄 Pronouns: he/him
   - ⚡ Fun fact: I'm a mountaineer!
