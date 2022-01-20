@@ -3,19 +3,6 @@ My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a no
 
 I have always believed that data-driven decision making is one of the most significant components for ensuring business's prosperity. Meanwhile, analytics is more than a tool; it is critical to the success of every organisation and individual.
 
-## Skills and Experience
-* R (Data analysing and forecasting, familiar with tidyverse, data.table, forecast and foreach libraries)
-* Tableau (Intermediate) 
-* Excel (Capable of using Excel Solver/VBA) 
-* SQL Server (Subqueries, conditional statements, data manipulation and data aggregation)
-* Jira (Full Software development lifecycle management)
-
-### My projects
-|||
-|---| --- |
-|<img src="https://github.com/PoonAthitS/PoonAthitS/blob/main/images/18-month_forecast_of_unglazed_brick_shipments.png?raw=true" width="1000">|[Automatic cross validation forecasting model](https://github.com/PoonAthitS/automatic-cross-validation-forecasting-model) <br/> Automatic model for batch forecasting (forecast large amount of time series), using Cross validation algorithm as a model selection strategy.|
-|<img src="https://github.com/PoonAthitS/PoonAthitS/blob/main/images/Average%20departure%20delay%20calendar.png?raw=true" width="1000"> |[Departure Delay Analysis on NYC flight in 2013](https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight) <br/> Data analysis on New York flights in 2013 to find the relationship between other factors and the departure delays, by using R to produce the analytics part and Tableau for the dashboard.|
-
 <details>
 <summary>More about me:</summary>
   
@@ -25,3 +12,19 @@ I have always believed that data-driven decision making is one of the most sign
   - 😄 Pronouns: he/him
   - ⚡ Fun fact: I'm a mountaineer!
 </details>
+
+## Skills and Experience
+* R (Data analysing and forecasting, familiar with tidyverse, data.table, forecast and foreach libraries)
+* Tableau (Intermediate) 
+* Excel (Capable of using Excel Solver/VBA) 
+* SQL Server (Subqueries, conditional statements, data manipulation and data aggregation)
+* Jira (Full Software development lifecycle management)
+
+### Examples of my projects
+|||
+|---| --- |
+|<img src="https://github.com/PoonAthitS/PoonAthitS/blob/main/images/18-month_forecast_of_unglazed_brick_shipments.png?raw=true" width="1000">|[Automatic cross validation forecasting model](https://github.com/PoonAthitS/automatic-cross-validation-forecasting-model) <br/> Automatic model for batch forecasting (forecast large amount of time series), using Cross validation algorithm as a model selection strategy.|
+|<img src="https://github.com/PoonAthitS/PoonAthitS/blob/main/images/Average%20departure%20delay%20calendar.png?raw=true" width="1000"> |[Departure Delay Analysis on NYC flight in 2013](https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight) <br/> Data analysis on New York flights in 2013 to find the relationship between the departure delays and other factors, by using R to produce the analytics part and Tableau for the dashboard.|
+|<img src="https://github.com/PoonAthitS/PoonAthitS/blob/main/images/Decision%20Support%20System.png" width="1000">|[Railway decision support system](https://github.com/PoonAthitS/railway-decision-support-system) <br/> The decision support system for calculating railway maximum flows when there is an event or incident that requires a large amount of trains to be transferred from one origin to one destination.||
+
+
