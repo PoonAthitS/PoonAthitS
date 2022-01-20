@@ -20,7 +20,7 @@ I have always believed that data-driven decision making is one of the most sign
 * SQL Server (Subqueries, conditional statements, data manipulation and data aggregation)
 * Jira (Full Software development lifecycle management)
 
-### Examples of my projects
+### My projects
 |||
 |---| --- |
 |<img src="https://github.com/PoonAthitS/PoonAthitS/blob/main/images/18-month_forecast_of_unglazed_brick_shipments.png?raw=true" width="1000">|[Automatic cross validation forecasting model](https://github.com/PoonAthitS/automatic-cross-validation-forecasting-model) <br/> __*[R, cross-validation, Error measures, forecast]*__ <br/>  Automatic model for batch forecasting (forecast large amount of time series), using Cross validation algorithm as a model selection strategy.|
