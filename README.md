@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a novice data analyst who is current studying MSc Business Analytics (2021/2022) in University of Bath School of Management. I transitioned into data/business analytics from Business Analyst background in the software development environment due to my passion in the beauty of how to achieve customers' insights from data. 
+My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a novice data analyst who is current studying MSc Business Analytics (2021/2022) in University of Bath School of Management. I transitioned into data/business analytics from Business Analyst background in the software development environment due to my passion in the beauty of customers' insight extraction procedures. 
 
 I have always believed that data-driven decision making is one of the most significant components for ensuring business's prosperity. Meanwhile, analytics is more than a tool; it is critical to the success of every organisation and individual.
 
