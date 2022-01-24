@@ -18,7 +18,7 @@ I have always believed that data-driven decision making is one of the most sign
   * Complete Datacamp: Data Analyst with R - Career Track (R & SQL, 77 hours)
 * __Tableau__  (Intermediate) 
 * __Excel__  (Capable of using Excel Solver/VBA) 
-* __SQL Server__  (Subqueries, conditional statements, data manipulation and data aggregation)
+* __SQL Server__  (Subqueries, data manipulation and data aggregation)
 * __Jira__  (Full Software development lifecycle management)
 
 ### My projects
