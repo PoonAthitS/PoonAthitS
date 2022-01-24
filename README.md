@@ -15,7 +15,7 @@ I have always believed that data-driven decision making is one of the most sign
 
 ## Skills and Experience
 * __R__  (Data analysing and forecasting, familiar with tidyverse, data.table, forecast and foreach libraries)
-  * Complete Datacamp: Data Analyst with R - Career Track (R & SQL, 77 hours)
+  * Completed Datacamp: Data Analyst with R - Career Track (R & SQL, 77 hours)
 * __Tableau__  (Intermediate) 
 * __Excel__  (Capable of using Excel Solver/VBA) 
 * __SQL Server__  (Subqueries, data manipulation and data aggregation)
