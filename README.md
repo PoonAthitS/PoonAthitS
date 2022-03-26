@@ -14,10 +14,11 @@ I have always believed that data-driven decision making is one of the most sign
 </details>
 
 ## Skills and Experience
-* __R__  (Data analysing and forecasting, familiar with tidyverse, data.table, forecast and foreach libraries)
+* __R__  (Data analysis, ML and forecasting, familiar with tidyverse, data.table, forecast, foreach and clustering/classification libraries)
   * Completed Datacamp: Data Analyst with R - Career Track (R & SQL, 77 hours)
 * __Tableau__  (Intermediate) 
-* __Excel__  (Capable of using Excel Solver/VBA) 
+* __Excel__  (Capable of using Excel Solver/VBA)
+* __Arena__ (Simulation modelling) 
 * __SQL Server__  (Subqueries, data manipulation and data aggregation)
 * __Jira__  (Full Software development lifecycle management)
 
