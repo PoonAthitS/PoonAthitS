@@ -1,12 +1,11 @@
 ## Hi there 👋
-My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a novice data analyst who is current studying MSc Business Analytics (2021/2022) in University of Bath School of Management. I transitioned into data/business analytics from a business analyst background in the software development environment due to my passion for the beauty of insight extraction. 
+My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm adata ana lyst who graduated from MSc Business Analytics (2021/2022) in University of Bath School of Management. I transitioned into data/business analytics from a business analyst background in the software development environment due to my passion for the beauty of insight extraction. 
 
 I have always believed that data-driven decision making is one of the most significant components for ensuring business's prosperity as well as Analytics is more than just a tool; it is critical to the success of every organisation and individual.
 
 <details>
 <summary>More about me:</summary>
   
-  - 🔭 I’m currently applying for a job in Data/Business Analytics, Business Intelligence. If you are looking for a team player who is detail-oriented and hard-working, need to look no further.  
   - 📫 How to reach me: [LinkedIn Profile.](https://www.linkedin.com/in/athit-srimachand/)
   - 😄 Pronouns: he/him
   - ⚡ Fun fact: I'm a mountaineer!
@@ -14,7 +13,7 @@ I have always believed that data-driven decision making is one of the most sign
 </details>
 
 ## Skills and Experience
-* __R__  (Data analysis, ML and forecasting, familiar with tidyverse, data.table, forecast, foreach and tidymodels libraries)
+* __Python & R__  (Data analysis, ML and forecasting, familiar with sklearn, pandas, xgboost, tidyverse, data.table, forecast, foreach and tidymodels libraries)
   * Completed Datacamp: Data Analyst with R - Career Track (R & SQL, 77 hours)
 * __Tableau__  (Intermediate) 
 * __Excel__  (Capable of using Excel Solver/VBA)
