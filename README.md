@@ -31,15 +31,9 @@ My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a da
 - Jira (Software Development Lifecycle Management)
 - GitLab (Version Controls, Package Developments, QA Frameworks)
 
-**CRM & Marketing Automation** 	
+**CRM & Marketing Automation & Marketing Tools & Channels:**
 - Salesforce, Microsoft Dynamics 365, Adobe Marketo, Pardot
-
-**Marketing Tools & Channels**:	
 - Google Analytics 4, Google Ads, Instagram, Email Marketing, LinkedIn, Facebook, Pardot Landing Page, etc.
-
-**Languages:**	
-- Fluent in Thai & English (Achieved IELTS 7.5 in 2021)
-
 
 ### My projects
 |||
