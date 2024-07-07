@@ -1,25 +1,42 @@
 ## Hi there 👋
-My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a data analyst graduated from MSc Business Analytics (2021/2022) in University of Bath School of Management. I transitioned into data/business analytics from a business analyst background in the software development environment due to my passion for the beauty of insight extraction. 
-
-I have always believed that data-driven decision making is one of the most significant components for ensuring business's prosperity as well as Analytics is more than just a tool; it is critical to the success of every organisation and individual.
+My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a data analyst
 
 <details>
 <summary>More about me:</summary>
   
   - 📫 How to reach me: [LinkedIn Profile.](https://www.linkedin.com/in/athit-srimachand/)
   - 😄 Pronouns: he/him
-  - ⚡ Fun fact: I'm a mountaineer!
-  - 🌱 My mountaineering webpage: [Pantip Profile](https://pantip.com/profile/4487541#topics) (Sorry that it is still in Thai)
+  - ⚡ Fun fact: I'm an Alpinist!
 </details>
 
 ## Skills and Experience
-* __Python & R__  (Data analysis, ML and forecasting, familiar with sklearn, pandas, xgboost, tidyverse, data.table, forecast, foreach and tidymodels libraries)
-  * Completed Datacamp: Data Analyst with R - Career Track (R & SQL, 77 hours)
-* __Tableau__  (Intermediate) 
-* __Excel__  (Capable of using Excel Solver/VBA)
-* __Arena__ (Simulation modelling) 
-* __SQL Server__  (Subqueries, data manipulation and data aggregation)
-* __Jira__  (Full Software development lifecycle management)
+**Database & BI:**
+•	Tableau (Advanced Dashboarding, Complex Calculations & Parameters)
+•	SQL (Advanced Data Queries) 
+•	Snowflake (Complex Views, Automations, Snowpark, API Extractions)
+•	FiveTran (Diverse Data Extractions, DBT Data Transformations)
+
+**Data Analytics & ML:**
+•	Python & R: 
+  •	Machine Learning (sklearn, xgboost, tidymodels, Hyperparameter Tuning Optimisation, Interpretability Analyses)
+  •	Data manipulation (pandas, dplyr, Parallel Programming, Feature Engineering, Pre-Process)
+  •	API (Advanced API Packaging, Asynchronous, Loggings)
+  •	Optimisation (scipy Optimize)
+  •	Unit Test (unittest Framework)
+
+**Software Development:**	
+•	Jira (Software Development Lifecycle Management)
+•	GitLab (Version Controls, Package Developments, QA Frameworks)
+
+**CRM & Marketing Automation** 	
+•	Salesforce, Microsoft Dynamics 365, Adobe Marketo, Pardot
+
+**Marketing Tools & Channels**:	
+•	Google Analytics 4, Google Ads, Instagram, Email Marketing, LinkedIn, Facebook, Pardot Landing Page, etc.
+
+**Languages:**	
+•	Fluent in Thai & English (Achieved IELTS 7.5 in 2021)
+
 
 ### My projects
 |||
