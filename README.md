@@ -11,31 +11,34 @@ My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a da
 
 ## Skills and Experience
 **Database & BI:**
-•	Tableau (Advanced Dashboarding, Complex Calculations & Parameters)
-•	SQL (Advanced Data Queries) 
-•	Snowflake (Complex Views, Automations, Snowpark, API Extractions)
-•	FiveTran (Diverse Data Extractions, DBT Data Transformations)
+
+- Tableau (Advanced Dashboarding, Complex Calculations & Parameters)
+- SQL (Advanced Data Queries)
+- Snowflake (Complex Views, Automations, Snowpark, API Extractions)
+- FiveTran (Diverse Data Extractions, DBT Data Transformations)
 
 **Data Analytics & ML:**
-•	Python & R: 
-  •	Machine Learning (sklearn, xgboost, tidymodels, Hyperparameter Tuning Optimisation, Interpretability Analyses)
-  •	Data manipulation (pandas, dplyr, Parallel Programming, Feature Engineering, Pre-Process)
-  •	API (Advanced API Packaging, Asynchronous, Loggings)
-  •	Optimisation (scipy Optimize)
-  •	Unit Test (unittest Framework)
+
+- Python & R:
+    - Machine Learning (sklearn, xgboost, tidymodels, Hyperparameter Tuning Optimisation, Interpretability Analyses)
+    - Data manipulation (pandas, dplyr, Parallel Programming, Feature Engineering, Pre-Process)
+    - API (Advanced API Packaging, Asynchronous, Loggings)
+    - Optimisation (scipy Optimize)
+    - Unit Test (unittest Framework)
 
 **Software Development:**	
-•	Jira (Software Development Lifecycle Management)
-•	GitLab (Version Controls, Package Developments, QA Frameworks)
+
+- Jira (Software Development Lifecycle Management)
+- GitLab (Version Controls, Package Developments, QA Frameworks)
 
 **CRM & Marketing Automation** 	
-•	Salesforce, Microsoft Dynamics 365, Adobe Marketo, Pardot
+- Salesforce, Microsoft Dynamics 365, Adobe Marketo, Pardot
 
 **Marketing Tools & Channels**:	
-•	Google Analytics 4, Google Ads, Instagram, Email Marketing, LinkedIn, Facebook, Pardot Landing Page, etc.
+- Google Analytics 4, Google Ads, Instagram, Email Marketing, LinkedIn, Facebook, Pardot Landing Page, etc.
 
 **Languages:**	
-•	Fluent in Thai & English (Achieved IELTS 7.5 in 2021)
+- Fluent in Thai & English (Achieved IELTS 7.5 in 2021)
 
 
 ### My projects
