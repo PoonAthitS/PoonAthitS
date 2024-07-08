@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a data analyst
+My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), a Data Analyst with a comprehensive background in Business analytics, B2B Sales & Marketing, and Consulting. Expert in data-driven solutions, dashboarding, machine learning, compliance, etc. Committed to transforming data into strategic insights that fuel business success and performance.
 
 <details>
 <summary>More about me:</summary>
@@ -35,7 +35,7 @@ My name is [Poon Athit](https://www.linkedin.com/in/athit-srimachand/), I'm a da
 - Salesforce, Microsoft Dynamics 365, Adobe Marketo, Pardot
 - Google Analytics 4, Google Ads, Instagram, Email Marketing, LinkedIn, Facebook, Pardot Landing Page, etc.
 
-### My projects
+## My projects
 |||
 |---| --- |
 |<img src="https://github.com/PoonAthitS/PoonAthitS/blob/main/images/Mountain%20Project%20-%20Dashboard.png?raw=true" width="1000">|[(2022 Project) Mountain Project - Climbing Community Website Analysis](https://github.com/PoonAthitS/mountain-project-analysis) <br/> __*[SQL Server, Tableau]*__ <br/>  Analysis of "Mountain Project" which is one of the largest climbing-related websites in the world, by using SQL for data manipulation and Tableau dashboard for presenting insights. |
